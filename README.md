@@ -1,4 +1,4 @@
-# Codes for all my Programming College Courses in De La Salle University-Dasmarinas and Pamantasan ng Lungsod ng Maynila
+# Codes of all my Programming College Courses in De La Salle University-Dasmarinas and Pamantasan ng Lungsod ng Maynila
 
 ## Languages learned:
 - Swift
