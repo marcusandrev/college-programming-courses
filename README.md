@@ -8,3 +8,5 @@
 - C
 - C++
 - Java
+- Assembly
+- Python
